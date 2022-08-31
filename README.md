@@ -1,2 +1,2 @@
 # solve_my_bomb
-MUAHAHAHA
+Puzzles & code for GNU Radio conference 2022.
