@@ -9,7 +9,7 @@ np.random.seed(seed=0xDEADBEEF+55000)
 feature_count = 8
 # Row counts
 total_count = 50000
-train_count = 1999
+train_count = 5000-1
 
 X = np.random.randn(total_count, feature_count)
 

@@ -1,3 +1,6 @@
 # ignore generated data
 *.csv
 *.png
+
+# ignore solution artifacts
+lightning_logs/

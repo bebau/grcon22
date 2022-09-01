@@ -5,7 +5,7 @@ QR Code reveals gort's hideout.
 ## Dependencies
 
 * `apt install qrencode`
-* `pip install pandas sklearn pillow`
+* `pip install pandas sklearn pillow umap-learn`
 
 ## Solutions
 
