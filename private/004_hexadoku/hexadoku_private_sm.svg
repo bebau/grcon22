@@ -1,0 +1,1021 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="683" height="825.397">
+  <defs>
+    <path id="a" d="M196.192 816.411h830.877v83.178H196.192z"/>
+  </defs>
+  <path fill="#fff" d="M0 0h683v860.3H0Z"/>
+  <g transform="translate(-66 -56.15)">
+    <path fill="#079e81" fill-opacity=".522" stroke="#000" stroke-linecap="round" stroke-width=".189" d="M274.426 798.692v41h-82v-41z" opacity=".998"/>
+    <path fill="#c06903" fill-opacity=".522" stroke="#000" stroke-linecap="round" stroke-width=".189" d="M364.426 798.692v41h-82v-41z" opacity=".998"/>
+    <rect width="41" height="82" x="798.692" y="-454.426" fill="#07419e" fill-opacity=".522" stroke="#000" stroke-linecap="round" stroke-width=".189" opacity=".998" ry="0" transform="rotate(90)"/>
+    <path fill="#9e0771" fill-opacity=".522" stroke="#000" stroke-linecap="round" stroke-width=".189" d="M544.426 798.692v41h-82v-41z" opacity=".998"/>
+    <text xml:space="preserve" x="1359.756" y="-756.73" font-family="Overpass" font-size="10" font-style="italic" font-weight="300" style="line-height:1;-inkscape-font-specification:'Overpass, Light Italic';white-space:pre;shape-inside:url(#a)"><tspan x="98.181" y="100.047"><tspan font-family="Times New Roman" font-size="52.913" font-weight="400" style="-inkscape-font-specification:'Times New Roman, Italic';text-align:justify">Find the Terrorist&apos;s Password</tspan></tspan></text>
+    <path fill="#b1ffb6" stroke="#000" stroke-linecap="round" stroke-width=".189" d="M634.426 798.692v41h-82v-41z" opacity=".998"/>
+    <path fill="#9e0f07" fill-opacity=".522" stroke="#000" stroke-linecap="round" stroke-width=".189" d="M724.426 798.692v41h-82v-41z" opacity=".998"/>
+    <path fill="#b1ffb6" stroke="#000" stroke-linecap="round" stroke-width=".134" d="M532 284v40h-42v-40zM574 325v40h-42v-40z" opacity=".998"/>
+    <path fill="#9e0f07" fill-opacity=".522" stroke="#000" stroke-linecap="round" stroke-width=".189" d="M698 657v41h-82v-41z" opacity=".998"/>
+    <text xml:space="preserve" x="1336.639" y="-25.146" font-family="Overpass" font-size="10" font-style="italic" font-weight="300" style="line-height:1;-inkscape-font-specification:'Overpass, Light Italic';white-space:pre;shape-inside:url(#a)"><tspan x="75.064" y="831.63" font-family="Times New Roman" font-size="52.913" font-style="normal" font-weight="400" style="-inkscape-font-specification:'Times New Roman, ';text-align:justify">Flag{</tspan></text>
+    <text xml:space="preserve" x="1983.461" y="-25.146" font-family="Overpass" font-size="10" font-style="italic" font-weight="300" style="line-height:1;-inkscape-font-specification:'Overpass, Light Italic';white-space:pre;shape-inside:url(#a)"><tspan x="721.885" y="831.63" font-family="Times New Roman" font-size="52.913" font-style="normal" font-weight="400" style="-inkscape-font-specification:'Times New Roman, ';text-align:justify">}</tspan></text>
+  </g>
+  <g fill-opacity=".522" stroke="#000" stroke-linecap="round">
+    <path fill="#079e81" stroke-width=".189" d="M92 102.85h82v41H92z" opacity=".998"/>
+    <path fill="#07419e" stroke-width=".135" d="M382.973 393.823h41.166v41.054h-41.166z" opacity=".998"/>
+    <path fill="#9e0771" stroke-width=".187" d="M591 267.85h40v83h-40z" opacity=".998"/>
+    <path fill="#c06903" stroke-width=".272" d="M11 599.85h81v42H11z" opacity=".998"/>
+    <path fill="#07419e" stroke-width=".135" d="M425 349.796h41.166v41.054H425z" opacity=".998"/>
+  </g>
+  <path fill-rule="evenodd" d="M8 725.85v-667h667v667Zm3-2v-662h662v662Z"/>
+  <path fill="#fff" d="M11 61.85h41v41H11Z"/>
+  <path d="M11 101.85h41v1H11Z"/>
+  <path d="M51 61.85h1v41h-1z"/>
+  <path fill="#fff" d="M52 61.85h41v41H52Z"/>
+  <path d="M52 101.85h41v1H52Z"/>
+  <path d="M92 61.85h1v41h-1z"/>
+  <path fill="#fff" d="M93 61.85h41v41H93Z"/>
+  <path d="M93 101.85h41v1H93Z"/>
+  <path d="M133 61.85h1v41h-1z"/>
+  <path fill="#fff" d="M134 61.85h43v41h-43Z"/>
+  <path d="M134 101.85h43v1h-43Z"/>
+  <path d="M174 61.85h3v41h-3Z"/>
+  <path fill="#fff" d="M177 61.85h41v41h-41Z"/>
+  <path d="M177 101.85h41v1h-41Z"/>
+  <path d="M217 61.85h1v41h-1z"/>
+  <path fill="#fff" d="M218 61.85h41v41h-41Z"/>
+  <path d="M218 101.85h41v1h-41Z"/>
+  <path d="M258 61.85h1v41h-1z"/>
+  <path fill="#fff" d="M259 61.85h41v41h-41Z"/>
+  <path d="M259 101.85h41v1h-41z"/>
+  <path d="M299 61.85h1v41h-1z"/>
+  <path fill="#fff" d="M300 61.85h43v41h-43Z"/>
+  <path d="M300 101.85h43v1h-43Z"/>
+  <path d="M340 61.85h3v41h-3z"/>
+  <path fill="#fff" d="M343 61.85h41v41h-41Z"/>
+  <path d="M343 101.85h41v1h-41z"/>
+  <path d="M383 61.85h1v41h-1z"/>
+  <path fill="#fff" d="M384 61.85h41v41h-41Z"/>
+  <path d="M384 101.85h41v1h-41Z"/>
+  <path d="M424 61.85h1v41h-1z"/>
+  <path fill="#fff" d="M425 61.85h41v41h-41z"/>
+  <path d="M425 101.85h41v1h-41z"/>
+  <path d="M465 61.85h1v41h-1z"/>
+  <path fill="#fff" d="M466 61.85h43v41h-43Z"/>
+  <path d="M466 101.85h43v1h-43Z"/>
+  <path d="M506 61.85h3v41h-3z"/>
+  <path fill="#fff" d="M509 61.85h41v41h-41z"/>
+  <path d="M509 101.85h41v1h-41z"/>
+  <path d="M549 61.85h1v41h-1zM550 101.85h41v1h-41Z"/>
+  <path d="M590 61.85h1v41h-1Z"/>
+  <path fill="#fff" d="M591 61.85h41v41h-41Z"/>
+  <path d="M591 101.85h41v1h-41z"/>
+  <path d="M631 61.85h1v41h-1z"/>
+  <path fill="#fff" d="M632 61.85h41v41h-41Z"/>
+  <path d="M632 101.85h41v1h-41Z"/>
+  <path d="M672 61.85h1v41h-1z"/>
+  <path fill="#fff" d="M11 102.85h41v41H11Z"/>
+  <path d="M11 142.85h41v1H11Z"/>
+  <path d="M51 102.85h1v41h-1z"/>
+  <path fill="#fff" d="M52 102.85h41v41H52Z"/>
+  <path d="M52 142.85h41v1H52Z"/>
+  <path d="M92 102.85h1v41h-1zM93 142.85h41v1H93Z"/>
+  <path d="M133 102.85h1v41h-1zM134 142.85h43v1h-43Z"/>
+  <path d="M174 102.85h3v41h-3Z"/>
+  <path fill="#fff" d="M177 102.85h41v41h-41Z"/>
+  <path d="M177 142.85h41v1h-41Z"/>
+  <path d="M217 102.85h1v41h-1z"/>
+  <path fill="#fff" d="M218 102.85h41v41h-41Z"/>
+  <path d="M218 142.85h41v1h-41Z"/>
+  <path d="M258 102.85h1v41h-1z"/>
+  <path fill="#fff" d="M259 102.85h41v41h-41z"/>
+  <path d="M259 142.85h41v1h-41z"/>
+  <path d="M299 102.85h1v41h-1z"/>
+  <path fill="#fff" d="M300 102.85h43v41h-43Z"/>
+  <path d="M300 142.85h43v1h-43Z"/>
+  <path d="M340 102.85h3v41h-3z"/>
+  <path fill="#fff" d="M343 102.85h41v41h-41z"/>
+  <path d="M343 142.85h41v1h-41z"/>
+  <path d="M383 102.85h1v41h-1z"/>
+  <path fill="#fff" d="M384 102.85h41v41h-41Z"/>
+  <path d="M384 142.85h41v1h-41Z"/>
+  <path d="M424 102.85h1v41h-1z"/>
+  <path fill="#fff" d="M425 102.85h41v41h-41z"/>
+  <path d="M425 142.85h41v1h-41z"/>
+  <path d="M465 102.85h1v41h-1z"/>
+  <path fill="#fff" d="M466 102.85h43v41h-43Z"/>
+  <path d="M466 142.85h43v1h-43Z"/>
+  <path d="M506 102.85h3v41h-3z"/>
+  <path fill="#fff" d="M509 102.85h41v41h-41z"/>
+  <path d="M509 142.85h41v1h-41z"/>
+  <path d="M549 102.85h1v41h-1z"/>
+  <path fill="#fff" d="M550 102.85h41v41h-41Z"/>
+  <path d="M550 142.85h41v1h-41Z"/>
+  <path d="M590 102.85h1v41h-1Z"/>
+  <path fill="#fff" d="M591 102.85h41v41h-41z"/>
+  <path d="M591 142.85h41v1h-41z"/>
+  <path d="M631 102.85h1v41h-1z"/>
+  <path fill="#fff" d="M632 102.85h41v41h-41Z"/>
+  <path d="M632 142.85h41v1h-41Z"/>
+  <path d="M672 102.85h1v41h-1z"/>
+  <path fill="#fff" d="M11 143.85h41v41H11Z"/>
+  <path d="M11 183.85h41v1H11Z"/>
+  <path d="M51 143.85h1v41h-1z"/>
+  <path fill="#fff" d="M52 143.85h41v41H52Z"/>
+  <path d="M52 183.85h41v1H52Z"/>
+  <path d="M92 143.85h1v41h-1z"/>
+  <path fill="#fff" d="M93 143.85h41v41H93Z"/>
+  <path d="M93 183.85h41v1H93Z"/>
+  <path d="M133 143.85h1v41h-1z"/>
+  <path fill="#fff" d="M134 143.85h43v41h-43Z"/>
+  <path d="M134 183.85h43v1h-43Z"/>
+  <path d="M174 143.85h3v41h-3Z"/>
+  <path fill="#fff" d="M177 143.85h41v41h-41Z"/>
+  <path d="M177 183.85h41v1h-41Z"/>
+  <path d="M217 143.85h1v41h-1z"/>
+  <path fill="#fff" d="M218 143.85h41v41h-41Z"/>
+  <path d="M218 183.85h41v1h-41Z"/>
+  <path d="M258 143.85h1v41h-1z"/>
+  <path fill="#fff" d="M259 143.85h41v41h-41Z"/>
+  <path d="M259 183.85h41v1h-41z"/>
+  <path d="M299 143.85h1v41h-1z"/>
+  <path fill="#fff" d="M300 143.85h43v41h-43Z"/>
+  <path d="M300 183.85h43v1h-43Z"/>
+  <path d="M340 143.85h3v41h-3z"/>
+  <path fill="#fff" d="M343 143.85h41v41h-41Z"/>
+  <path d="M343 183.85h41v1h-41z"/>
+  <path d="M383 143.85h1v41h-1z"/>
+  <path fill="#fff" d="M384 143.85h41v41h-41Z"/>
+  <path d="M384 183.85h41v1h-41Z"/>
+  <path d="M424 143.85h1v41h-1z"/>
+  <path fill="#fff" d="M425 143.85h41v41h-41z"/>
+  <path d="M425 183.85h41v1h-41z"/>
+  <path d="M465 143.85h1v41h-1z"/>
+  <path fill="#fff" d="M466 143.85h43v41h-43Z"/>
+  <path d="M466 183.85h43v1h-43Z"/>
+  <path d="M506 143.85h3v41h-3z"/>
+  <path fill="#fff" d="M509 143.85h41v41h-41z"/>
+  <path d="M509 183.85h41v1h-41z"/>
+  <path d="M549 143.85h1v41h-1z"/>
+  <path fill="#fff" d="M550 143.85h41v41h-41Z"/>
+  <path d="M550 183.85h41v1h-41Z"/>
+  <path d="M590 143.85h1v41h-1Z"/>
+  <path fill="#fff" d="M591 143.85h41v41h-41Z"/>
+  <path d="M591 183.85h41v1h-41z"/>
+  <path d="M631 143.85h1v41h-1z"/>
+  <path fill="#fff" d="M632 143.85h41v41h-41Z"/>
+  <path d="M632 183.85h41v1h-41Z"/>
+  <path d="M672 143.85h1v41h-1z"/>
+  <path fill="#fff" d="M11 184.85h41v43H11Z"/>
+  <path d="M11 224.85h41v3H11Z"/>
+  <path d="M51 184.85h1v43h-1z"/>
+  <path fill="#fff" d="M52 184.85h41v43H52Z"/>
+  <path d="M52 224.85h41v3H52Z"/>
+  <path d="M92 184.85h1v43h-1z"/>
+  <path fill="#fff" d="M93 184.85h41v43H93Z"/>
+  <path d="M93 224.85h41v3H93Z"/>
+  <path d="M133 184.85h1v43h-1z"/>
+  <path fill="#fff" d="M134 184.85h43v43h-43Z"/>
+  <path d="M134 224.85h43v3h-43Z"/>
+  <path d="M174 184.85h3v43h-3Z"/>
+  <path fill="#fff" d="M177 184.85h41v43h-41Z"/>
+  <path d="M177 224.85h41v3h-41Z"/>
+  <path d="M217 184.85h1v43h-1z"/>
+  <path fill="#fff" d="M218 184.85h41v43h-41Z"/>
+  <path d="M218 224.85h41v3h-41Z"/>
+  <path d="M258 184.85h1v43h-1z"/>
+  <path fill="#fff" d="M259 184.85h41v43h-41z"/>
+  <path d="M259 224.85h41v3h-41Z"/>
+  <path d="M299 184.85h1v43h-1z"/>
+  <path fill="#fff" d="M300 184.85h43v43h-43Z"/>
+  <path d="M300 224.85h43v3h-43Z"/>
+  <path d="M340 184.85h3v43h-3z"/>
+  <path fill="#fff" d="M343 184.85h41v43h-41z"/>
+  <path d="M343 224.85h41v3h-41Z"/>
+  <path d="M383 184.85h1v43h-1z"/>
+  <path fill="#fff" d="M384 184.85h41v43h-41Z"/>
+  <path d="M384 224.85h41v3h-41Z"/>
+  <path d="M424 184.85h1v43h-1z"/>
+  <path fill="#fff" d="M425 184.85h41v43h-41z"/>
+  <path d="M425 224.85h41v3h-41z"/>
+  <path d="M465 184.85h1v43h-1z"/>
+  <path fill="#fff" d="M466 184.85h43v43h-43Z"/>
+  <path d="M466 224.85h43v3h-43Z"/>
+  <path d="M506 184.85h3v43h-3z"/>
+  <path fill="#fff" d="M509 184.85h41v43h-41z"/>
+  <path d="M509 224.85h41v3h-41z"/>
+  <path d="M549 184.85h1v43h-1z"/>
+  <path fill="#fff" d="M550 184.85h41v43h-41Z"/>
+  <path d="M550 224.85h41v3h-41Z"/>
+  <path d="M590 184.85h1v43h-1Z"/>
+  <path fill="#fff" d="M591 184.85h41v43h-41z"/>
+  <path d="M591 224.85h41v3h-41Z"/>
+  <path d="M631 184.85h1v43h-1z"/>
+  <path fill="#fff" d="M632 184.85h41v43h-41Z"/>
+  <path d="M632 224.85h41v3h-41Z"/>
+  <path d="M672 184.85h1v43h-1z"/>
+  <path fill="#fff" d="M11 227.85h41v41H11Z"/>
+  <path d="M11 267.85h41v1H11Z"/>
+  <path d="M51 227.85h1v41h-1z"/>
+  <path fill="#fff" d="M52 227.85h41v41H52Z"/>
+  <path d="M52 267.85h41v1H52Z"/>
+  <path d="M92 227.85h1v41h-1z"/>
+  <path fill="#fff" d="M93 227.85h41v41H93Z"/>
+  <path d="M93 267.85h41v1H93Z"/>
+  <path d="M133 227.85h1v41h-1z"/>
+  <path fill="#fff" d="M134 227.85h43v41h-43Z"/>
+  <path d="M134 267.85h43v1h-43Z"/>
+  <path d="M174 227.85h3v41h-3Z"/>
+  <path fill="#fff" d="M177 227.85h41v41h-41Z"/>
+  <path d="M177 267.85h41v1h-41Z"/>
+  <path d="M217 227.85h1v41h-1z"/>
+  <path fill="#fff" d="M218 227.85h41v41h-41Z"/>
+  <path d="M218 267.85h41v1h-41Z"/>
+  <path d="M258 227.85h1v41h-1z"/>
+  <path fill="#fff" d="M259 227.85h41v41h-41z"/>
+  <path d="M259 267.85h41v1h-41z"/>
+  <path d="M299 227.85h1v41h-1z"/>
+  <path fill="#fff" d="M300 227.85h43v41h-43Z"/>
+  <path d="M300 267.85h43v1h-43Z"/>
+  <path d="M340 227.85h3v41h-3z"/>
+  <path fill="#fff" d="M343 227.85h41v41h-41z"/>
+  <path d="M343 267.85h41v1h-41z"/>
+  <path d="M383 227.85h1v41h-1zM384 267.85h41v1h-41Z"/>
+  <path d="M424 227.85h1v41h-1zM425 267.85h41v1h-41z"/>
+  <path d="M465 227.85h1v41h-1z"/>
+  <path fill="#fff" d="M466 227.85h43v41h-43Z"/>
+  <path d="M466 267.85h43v1h-43Z"/>
+  <path d="M506 227.85h3v41h-3z"/>
+  <path fill="#fff" d="M509 227.85h41v41h-41z"/>
+  <path d="M509 267.85h41v1h-41z"/>
+  <path d="M549 227.85h1v41h-1z"/>
+  <path fill="#fff" d="M550 227.85h41v41h-41Z"/>
+  <path d="M550 267.85h41v1h-41Z"/>
+  <path d="M590 227.85h1v41h-1Z"/>
+  <path fill="#fff" d="M591 227.85h41v41h-41z"/>
+  <path d="M591 267.85h41v1h-41z"/>
+  <path d="M631 227.85h1v41h-1z"/>
+  <path fill="#fff" d="M632 227.85h41v41h-41Z"/>
+  <path d="M632 267.85h41v1h-41Z"/>
+  <path d="M672 227.85h1v41h-1z"/>
+  <path fill="#fff" d="M11 268.85h41v41H11Z"/>
+  <path d="M11 308.85h41v1H11Z"/>
+  <path d="M51 268.85h1v41h-1zM52 308.85h41v1H52Z"/>
+  <path d="M92 268.85h1v41h-1zM93 308.85h41v1H93Z"/>
+  <path d="M133 268.85h1v41h-1z"/>
+  <path fill="#fff" d="M134 268.85h43v41h-43Z"/>
+  <path d="M134 308.85h43v1h-43Z"/>
+  <path d="M174 268.85h3v41h-3Z"/>
+  <path fill="#fff" d="M177 268.85h41v41h-41Z"/>
+  <path d="M177 308.85h41v1h-41Z"/>
+  <path d="M217 268.85h1v41h-1z"/>
+  <path fill="#fff" d="M218 268.85h41v41h-41Z"/>
+  <path d="M218 308.85h41v1h-41Z"/>
+  <path d="M258 268.85h1v41h-1z"/>
+  <path fill="#fff" d="M259 268.85h41v41h-41Z"/>
+  <path d="M259 308.85h41v1h-41z"/>
+  <path d="M299 268.85h1v41h-1z"/>
+  <path fill="#fff" d="M300 268.85h43v41h-43Z"/>
+  <path d="M300 308.85h43v1h-43Z"/>
+  <path d="M340 268.85h3v41h-3z"/>
+  <path fill="#fff" d="M343 268.85h41v41h-41Z"/>
+  <path d="M343 308.85h41v1h-41z"/>
+  <path d="M383 268.85h1v41h-1zM384 308.85h41v1h-41Z"/>
+  <path d="M424 268.85h1v41h-1zM425 308.85h41v1h-41z"/>
+  <path d="M465 268.85h1v41h-1zM466 308.85h43v1h-43Z"/>
+  <path d="M506 268.85h3v41h-3z"/>
+  <path fill="#fff" d="M509 268.85h41v41h-41z"/>
+  <path d="M509 308.85h41v1h-41z"/>
+  <path d="M549 268.85h1v41h-1z"/>
+  <path fill="#fff" d="M550 268.85h41v41h-41Z"/>
+  <path d="M550 308.85h41v1h-41Z"/>
+  <path d="M590 268.85h1v41h-1ZM591 308.85h41v1h-41z"/>
+  <path d="M631 268.85h1v41h-1z"/>
+  <path fill="#fff" d="M632 268.85h41v41h-41Z"/>
+  <path d="M632 308.85h41v1h-41Z"/>
+  <path d="M672 268.85h1v41h-1z"/>
+  <path fill="#fff" d="M11 309.85h41v41H11Z"/>
+  <path d="M11 349.85h41v1H11Z"/>
+  <path d="M51 309.85h1v41h-1zM52 349.85h41v1H52Z"/>
+  <path d="M92 309.85h1v41h-1z"/>
+  <path fill="#fff" d="M93 309.85h41v41H93Z"/>
+  <path d="M93 349.85h41v1H93Z"/>
+  <path d="M133 309.85h1v41h-1z"/>
+  <path fill="#fff" d="M134 309.85h43v41h-43Z"/>
+  <path d="M134 349.85h43v1h-43Z"/>
+  <path d="M174 309.85h3v41h-3Z"/>
+  <path fill="#fff" d="M177 309.85h41v41h-41Z"/>
+  <path d="M177 349.85h41v1h-41Z"/>
+  <path d="M217 309.85h1v41h-1z"/>
+  <path fill="#fff" d="M218 309.85h41v41h-41Z"/>
+  <path d="M218 349.85h41v1h-41Z"/>
+  <path d="M258 309.85h1v41h-1z"/>
+  <path fill="#fff" d="M259 309.85h41v41h-41z"/>
+  <path d="M259 349.85h41v1h-41z"/>
+  <path d="M299 309.85h1v41h-1z"/>
+  <path fill="#fff" d="M300 309.85h43v41h-43Z"/>
+  <path d="M300 349.85h43v1h-43Z"/>
+  <path d="M340 309.85h3v41h-3z"/>
+  <path fill="#fff" d="M343 309.85h41v41h-41z"/>
+  <path d="M343 349.85h41v1h-41z"/>
+  <path d="M383 309.85h1v41h-1z"/>
+  <path fill="#fff" d="M384 309.85h41v41h-41Z"/>
+  <path d="M384 349.85h41v1h-41Z"/>
+  <path d="M424 309.85h1v41h-1z"/>
+  <path fill="#fff" d="M425 309.85h41v41h-41z"/>
+  <path d="M425 349.85h41v1h-41z"/>
+  <path d="M465 309.85h1v41h-1z"/>
+  <path fill="#fff" d="M466 309.85h43v41h-43Z"/>
+  <path d="M466 349.85h43v1h-43Z"/>
+  <path d="M506 309.85h3v41h-3z"/>
+  <path fill="#fff" d="M509 309.85h41v41h-41z"/>
+  <path d="M509 349.85h41v1h-41z"/>
+  <path d="M549 309.85h1v41h-1z"/>
+  <path fill="#fff" d="M550 309.85h41v41h-41Z"/>
+  <path d="M550 349.85h41v1h-41Z"/>
+  <path d="M590 309.85h1v41h-1ZM591 349.85h41v1h-41z"/>
+  <path d="M631 309.85h1v41h-1z"/>
+  <path fill="#fff" d="M632 309.85h41v41h-41Z"/>
+  <path d="M632 349.85h41v1h-41Z"/>
+  <path d="M672 309.85h1v41h-1z"/>
+  <path fill="#fff" d="M11 350.85h41v43H11Z"/>
+  <path d="M11 390.85h41v3H11Z"/>
+  <path d="M51 350.85h1v43h-1z"/>
+  <path fill="#fff" d="M52 350.85h41v43H52Z"/>
+  <path d="M52 390.85h41v3H52Z"/>
+  <path d="M92 350.85h1v43h-1z"/>
+  <path fill="#fff" d="M93 350.85h41v43H93Z"/>
+  <path d="M93 390.85h41v3H93Z"/>
+  <path d="M133 350.85h1v43h-1z"/>
+  <path fill="#fff" d="M134 350.85h43v43h-43Z"/>
+  <path d="M134 390.85h43v3h-43Z"/>
+  <path d="M174 350.85h3v43h-3Z"/>
+  <path fill="#fff" d="M177 350.85h41v43h-41Z"/>
+  <path d="M177 390.85h41v3h-41Z"/>
+  <path d="M217 350.85h1v43h-1z"/>
+  <path fill="#fff" d="M218 350.85h41v43h-41Z"/>
+  <path d="M218 390.85h41v3h-41Z"/>
+  <path d="M258 350.85h1v43h-1z"/>
+  <path fill="#fff" d="M259 350.85h41v43h-41Z"/>
+  <path d="M259 390.85h41v3h-41z"/>
+  <path d="M299 350.85h1v43h-1z"/>
+  <path fill="#fff" d="M300 350.85h43v43h-43Z"/>
+  <path d="M300 390.85h43v3h-43Z"/>
+  <path d="M340 350.85h3v43h-3z"/>
+  <path fill="#fff" d="M343 350.85h41v43h-41Z"/>
+  <path d="M343 390.85h41v3h-41z"/>
+  <path d="M383 350.85h1v43h-1z"/>
+  <path fill="#fff" d="M384 350.85h41v43h-41Z"/>
+  <path d="M384 390.85h41v3h-41Z"/>
+  <path d="M424 350.85h1v43h-1zM425 390.85h41v3h-41z"/>
+  <path d="M465 350.85h1v43h-1z"/>
+  <path fill="#fff" d="M466 350.85h43v43h-43Z"/>
+  <path d="M466 390.85h43v3h-43Z"/>
+  <path d="M506 350.85h3v43h-3z"/>
+  <path fill="#fff" d="M509 350.85h41v43h-41z"/>
+  <path d="M509 390.85h41v3h-41z"/>
+  <path d="M549 350.85h1v43h-1z"/>
+  <path fill="#fff" d="M550 350.85h41v43h-41Z"/>
+  <path d="M550 390.85h41v3h-41Z"/>
+  <path d="M590 350.85h1v43h-1Z"/>
+  <path fill="#fff" d="M591 350.85h41v43h-41Z"/>
+  <path d="M591 390.85h41v3h-41z"/>
+  <path d="M631 350.85h1v43h-1z"/>
+  <path fill="#fff" d="M632 350.85h41v43h-41Z"/>
+  <path d="M632 390.85h41v3h-41Z"/>
+  <path d="M672 350.85h1v43h-1z"/>
+  <path fill="#fff" d="M11 393.85h41v41H11Z"/>
+  <path d="M11 433.85h41v1H11Z"/>
+  <path d="M51 393.85h1v41h-1z"/>
+  <path fill="#fff" d="M52 393.85h41v41H52Z"/>
+  <path d="M52 433.85h41v1H52Z"/>
+  <path d="M92 393.85h1v41h-1z"/>
+  <path fill="#fff" d="M93 393.85h41v41H93Z"/>
+  <path d="M93 433.85h41v1H93Z"/>
+  <path d="M133 393.85h1v41h-1z"/>
+  <path fill="#fff" d="M134 393.85h43v41h-43Z"/>
+  <path d="M134 433.85h43v1h-43Z"/>
+  <path d="M174 393.85h3v41h-3Z"/>
+  <path fill="#fff" d="M177 393.85h41v41h-41Z"/>
+  <path d="M177 433.85h41v1h-41Z"/>
+  <path d="M217 393.85h1v41h-1z"/>
+  <path fill="#fff" d="M218 393.85h41v41h-41Z"/>
+  <path d="M218 433.85h41v1h-41Z"/>
+  <path d="M258 393.85h1v41h-1z"/>
+  <path fill="#fff" d="M259 393.85h41v41h-41z"/>
+  <path d="M259 433.85h41v1h-41z"/>
+  <path d="M299 393.85h1v41h-1z"/>
+  <path fill="#fff" d="M300 393.85h43v41h-43Z"/>
+  <path d="M300 433.85h43v1h-43Z"/>
+  <path d="M340 393.85h3v41h-3z"/>
+  <path fill="#fff" d="M343 393.85h41v41h-41z"/>
+  <path d="M343 433.85h41v1h-41z"/>
+  <path d="M383 393.85h1v41h-1zM384 433.85h41v1h-41Z"/>
+  <path d="M424 393.85h1v41h-1z"/>
+  <path fill="#fff" d="M425 393.85h41v41h-41z"/>
+  <path d="M425 433.85h41v1h-41z"/>
+  <path d="M465 393.85h1v41h-1z"/>
+  <path fill="#fff" d="M466 393.85h43v41h-43Z"/>
+  <path d="M466 433.85h43v1h-43Z"/>
+  <path d="M506 393.85h3v41h-3z"/>
+  <path fill="#fff" d="M509 393.85h41v41h-41z"/>
+  <path d="M509 433.85h41v1h-41z"/>
+  <path d="M549 393.85h1v41h-1z"/>
+  <path fill="#fff" d="M550 393.85h41v41h-41Z"/>
+  <path d="M550 433.85h41v1h-41Z"/>
+  <path d="M590 393.85h1v41h-1Z"/>
+  <path fill="#fff" d="M591 393.85h41v41h-41z"/>
+  <path d="M591 433.85h41v1h-41z"/>
+  <path d="M631 393.85h1v41h-1z"/>
+  <path fill="#fff" d="M632 393.85h41v41h-41Z"/>
+  <path d="M632 433.85h41v1h-41Z"/>
+  <path d="M672 393.85h1v41h-1z"/>
+  <path fill="#fff" d="M11 434.85h41v41H11Z"/>
+  <path d="M11 474.85h41v1H11Z"/>
+  <path d="M51 434.85h1v41h-1z"/>
+  <path fill="#fff" d="M52 434.85h41v41H52Z"/>
+  <path d="M52 474.85h41v1H52Z"/>
+  <path d="M92 434.85h1v41h-1z"/>
+  <path fill="#fff" d="M93 434.85h41v41H93Z"/>
+  <path d="M93 474.85h41v1H93Z"/>
+  <path d="M133 434.85h1v41h-1z"/>
+  <path fill="#fff" d="M134 434.85h43v41h-43Z"/>
+  <path d="M134 474.85h43v1h-43Z"/>
+  <path d="M174 434.85h3v41h-3Z"/>
+  <path fill="#fff" d="M177 434.85h41v41h-41Z"/>
+  <path d="M177 474.85h41v1h-41Z"/>
+  <path d="M217 434.85h1v41h-1z"/>
+  <path fill="#fff" d="M218 434.85h41v41h-41Z"/>
+  <path d="M218 474.85h41v1h-41Z"/>
+  <path d="M258 434.85h1v41h-1z"/>
+  <path fill="#fff" d="M259 434.85h41v41h-41z"/>
+  <path d="M259 474.85h41v1h-41z"/>
+  <path d="M299 434.85h1v41h-1z"/>
+  <path fill="#fff" d="M300 434.85h43v41h-43Z"/>
+  <path d="M300 474.85h43v1h-43Z"/>
+  <path d="M340 434.85h3v41h-3z"/>
+  <path fill="#fff" d="M343 434.85h41v41h-41z"/>
+  <path d="M343 474.85h41v1h-41z"/>
+  <path d="M383 434.85h1v41h-1z"/>
+  <path fill="#fff" d="M384 434.85h41v41h-41Z"/>
+  <path d="M384 474.85h41v1h-41Z"/>
+  <path d="M424 434.85h1v41h-1z"/>
+  <path fill="#fff" d="M425 434.85h41v41h-41z"/>
+  <path d="M425 474.85h41v1h-41z"/>
+  <path d="M465 434.85h1v41h-1z"/>
+  <path fill="#fff" d="M466 434.85h43v41h-43Z"/>
+  <path d="M466 474.85h43v1h-43Z"/>
+  <path d="M506 434.85h3v41h-3z"/>
+  <path fill="#fff" d="M509 434.85h41v41h-41z"/>
+  <path d="M509 474.85h41v1h-41z"/>
+  <path d="M549 434.85h1v41h-1z"/>
+  <path fill="#fff" d="M550 434.85h41v41h-41Z"/>
+  <path d="M550 474.85h41v1h-41Z"/>
+  <path d="M590 434.85h1v41h-1Z"/>
+  <path fill="#fff" d="M591 434.85h41v41h-41z"/>
+  <path d="M591 474.85h41v1h-41z"/>
+  <path d="M631 434.85h1v41h-1z"/>
+  <path fill="#fff" d="M632 434.85h41v41h-41Z"/>
+  <path d="M632 474.85h41v1h-41Z"/>
+  <path d="M672 434.85h1v41h-1z"/>
+  <path fill="#fff" d="M11 475.85h41v41H11Z"/>
+  <path d="M11 515.85h41v1H11Z"/>
+  <path d="M51 475.85h1v41h-1z"/>
+  <path fill="#fff" d="M52 475.85h41v41H52Z"/>
+  <path d="M52 515.85h41v1H52Z"/>
+  <path d="M92 475.85h1v41h-1z"/>
+  <path fill="#fff" d="M93 475.85h41v41H93Z"/>
+  <path d="M93 515.85h41v1H93Z"/>
+  <path d="M133 475.85h1v41h-1z"/>
+  <path fill="#fff" d="M134 475.85h43v41h-43Z"/>
+  <path d="M134 515.85h43v1h-43Z"/>
+  <path d="M174 475.85h3v41h-3Z"/>
+  <path fill="#fff" d="M177 475.85h41v41h-41Z"/>
+  <path d="M177 515.85h41v1h-41Z"/>
+  <path d="M217 475.85h1v41h-1z"/>
+  <path fill="#fff" d="M218 475.85h41v41h-41Z"/>
+  <path d="M218 515.85h41v1h-41Z"/>
+  <path d="M258 475.85h1v41h-1z"/>
+  <path fill="#fff" d="M259 475.85h41v41h-41z"/>
+  <path d="M259 515.85h41v1h-41z"/>
+  <path d="M299 475.85h1v41h-1z"/>
+  <path fill="#fff" d="M300 475.85h43v41h-43Z"/>
+  <path d="M300 515.85h43v1h-43Z"/>
+  <path d="M340 475.85h3v41h-3z"/>
+  <path fill="#fff" d="M343 475.85h41v41h-41z"/>
+  <path d="M343 515.85h41v1h-41z"/>
+  <path d="M383 475.85h1v41h-1z"/>
+  <path fill="#fff" d="M384 475.85h41v41h-41Z"/>
+  <path d="M384 515.85h41v1h-41Z"/>
+  <path d="M424 475.85h1v41h-1z"/>
+  <path fill="#fff" d="M425 475.85h41v41h-41z"/>
+  <path d="M425 515.85h41v1h-41z"/>
+  <path d="M465 475.85h1v41h-1z"/>
+  <path fill="#fff" d="M466 475.85h43v41h-43Z"/>
+  <path d="M466 515.85h43v1h-43Z"/>
+  <path d="M506 475.85h3v41h-3z"/>
+  <path fill="#fff" d="M509 475.85h41v41h-41z"/>
+  <path d="M509 515.85h41v1h-41z"/>
+  <path d="M549 475.85h1v41h-1z"/>
+  <path fill="#fff" d="M550 475.85h41v41h-41Z"/>
+  <path d="M550 515.85h41v1h-41Z"/>
+  <path d="M590 475.85h1v41h-1Z"/>
+  <path fill="#fff" d="M591 475.85h41v41h-41z"/>
+  <path d="M591 515.85h41v1h-41z"/>
+  <path d="M631 475.85h1v41h-1z"/>
+  <path fill="#fff" d="M632 475.85h41v41h-41Z"/>
+  <path d="M632 515.85h41v1h-41Z"/>
+  <path d="M672 475.85h1v41h-1z"/>
+  <path fill="#fff" d="M11 516.85h41v43H11Z"/>
+  <path d="M11 556.85h41v3H11Z"/>
+  <path d="M51 516.85h1v43h-1z"/>
+  <path fill="#fff" d="M52 516.85h41v43H52Z"/>
+  <path d="M52 556.85h41v3H52Z"/>
+  <path d="M92 516.85h1v43h-1zM93 556.85h41v3H93Z"/>
+  <path d="M133 516.85h1v43h-1zM134 556.85h43v3h-43Z"/>
+  <path d="M174 516.85h3v43h-3Z"/>
+  <path fill="#fff" d="M177 516.85h41v43h-41Z"/>
+  <path d="M177 556.85h41v3h-41Z"/>
+  <path d="M217 516.85h1v43h-1z"/>
+  <path fill="#fff" d="M218 516.85h41v43h-41Z"/>
+  <path d="M218 556.85h41v3h-41Z"/>
+  <path d="M258 516.85h1v43h-1z"/>
+  <path fill="#fff" d="M259 516.85h41v43h-41z"/>
+  <path d="M259 556.85h41v3h-41z"/>
+  <path d="M299 516.85h1v43h-1z"/>
+  <path fill="#fff" d="M300 516.85h43v43h-43Z"/>
+  <path d="M300 556.85h43v3h-43Z"/>
+  <path d="M340 516.85h3v43h-3z"/>
+  <path fill="#fff" d="M343 516.85h41v43h-41z"/>
+  <path d="M343 556.85h41v3h-41z"/>
+  <path d="M383 516.85h1v43h-1z"/>
+  <path fill="#fff" d="M384 516.85h41v43h-41Z"/>
+  <path d="M384 556.85h41v3h-41Z"/>
+  <path d="M424 516.85h1v43h-1z"/>
+  <path fill="#fff" d="M425 516.85h41v43h-41z"/>
+  <path d="M425 556.85h41v3h-41z"/>
+  <path d="M465 516.85h1v43h-1z"/>
+  <path fill="#fff" d="M466 516.85h43v43h-43Z"/>
+  <path d="M466 556.85h43v3h-43Z"/>
+  <path d="M506 516.85h3v43h-3z"/>
+  <path fill="#fff" d="M509 516.85h41v43h-41z"/>
+  <path d="M509 556.85h41v3h-41z"/>
+  <path d="M549 516.85h1v43h-1z"/>
+  <path fill="#fff" d="M550 516.85h41v43h-41Z"/>
+  <path d="M550 556.85h41v3h-41Z"/>
+  <path d="M590 516.85h1v43h-1Z"/>
+  <path fill="#fff" d="M591 516.85h41v43h-41z"/>
+  <path d="M591 556.85h41v3h-41z"/>
+  <path d="M631 516.85h1v43h-1z"/>
+  <path fill="#fff" d="M632 516.85h41v43h-41Z"/>
+  <path d="M632 556.85h41v3h-41Z"/>
+  <path d="M672 516.85h1v43h-1z"/>
+  <path fill="#fff" d="M11 559.85h41v41H11Z"/>
+  <path d="M11 599.85h41v1H11Z"/>
+  <path d="M51 559.85h1v41h-1z"/>
+  <path fill="#fff" d="M52 559.85h41v41H52Z"/>
+  <path d="M52 599.85h41v1H52Z"/>
+  <path d="M92 559.85h1v41h-1z"/>
+  <path fill="#fff" d="M93 559.85h41v41H93Z"/>
+  <path d="M93 599.85h41v1H93Z"/>
+  <path d="M133 559.85h1v41h-1z"/>
+  <path fill="#fff" d="M134 559.85h43v41h-43Z"/>
+  <path d="M134 599.85h43v1h-43Z"/>
+  <path d="M174 559.85h3v41h-3Z"/>
+  <path fill="#fff" d="M177 559.85h41v41h-41Z"/>
+  <path d="M177 599.85h41v1h-41Z"/>
+  <path d="M217 559.85h1v41h-1z"/>
+  <path fill="#fff" d="M218 559.85h41v41h-41Z"/>
+  <path d="M218 599.85h41v1h-41Z"/>
+  <path d="M258 559.85h1v41h-1z"/>
+  <path fill="#fff" d="M259 559.85h41v41h-41z"/>
+  <path d="M259 599.85h41v1h-41z"/>
+  <path d="M299 559.85h1v41h-1z"/>
+  <path fill="#fff" d="M300 559.85h43v41h-43Z"/>
+  <path d="M300 599.85h43v1h-43Z"/>
+  <path d="M340 559.85h3v41h-3z"/>
+  <path fill="#fff" d="M343 559.85h41v41h-41z"/>
+  <path d="M343 599.85h41v1h-41z"/>
+  <path d="M383 559.85h1v41h-1z"/>
+  <path fill="#fff" d="M384 559.85h41v41h-41Z"/>
+  <path d="M384 599.85h41v1h-41Z"/>
+  <path d="M424 559.85h1v41h-1z"/>
+  <path fill="#fff" d="M425 559.85h41v41h-41z"/>
+  <path d="M425 599.85h41v1h-41z"/>
+  <path d="M465 559.85h1v41h-1z"/>
+  <path fill="#fff" d="M466 559.85h43v41h-43Z"/>
+  <path d="M466 599.85h43v1h-43Z"/>
+  <path d="M506 559.85h3v41h-3z"/>
+  <path fill="#fff" d="M509 559.85h41v41h-41z"/>
+  <path d="M509 599.85h41v1h-41z"/>
+  <path d="M549 559.85h1v41h-1z"/>
+  <path fill="#fff" d="M550 559.85h41v41h-41Z"/>
+  <path d="M550 599.85h41v1h-41Z"/>
+  <path d="M590 559.85h1v41h-1Z"/>
+  <path fill="#fff" d="M591 559.85h41v41h-41z"/>
+  <path d="M591 599.85h41v1h-41z"/>
+  <path d="M631 559.85h1v41h-1z"/>
+  <path fill="#fff" d="M632 559.85h41v41h-41Z"/>
+  <path d="M632 599.85h41v1h-41Z"/>
+  <path d="M672 559.85h1v41h-1zM11 640.85h41v1H11Z"/>
+  <path d="M51 600.85h1v41h-1zM52 640.85h41v1H52Z"/>
+  <path d="M92 600.85h1v41h-1z"/>
+  <path fill="#fff" d="M93 600.85h41v41H93Z"/>
+  <path d="M93 640.85h41v1H93Z"/>
+  <path d="M133 600.85h1v41h-1z"/>
+  <path fill="#fff" d="M134 600.85h43v41h-43Z"/>
+  <path d="M134 640.85h43v1h-43Z"/>
+  <path d="M174 600.85h3v41h-3Z"/>
+  <path fill="#fff" d="M177 600.85h41v41h-41Z"/>
+  <path d="M177 640.85h41v1h-41Z"/>
+  <path d="M217 600.85h1v41h-1z"/>
+  <path fill="#fff" d="M218 600.85h41v41h-41Z"/>
+  <path d="M218 640.85h41v1h-41Z"/>
+  <path d="M258 600.85h1v41h-1z"/>
+  <path fill="#fff" d="M259 600.85h41v41h-41Z"/>
+  <path d="M259 640.85h41v1h-41z"/>
+  <path d="M299 600.85h1v41h-1z"/>
+  <path fill="#fff" d="M300 600.85h43v41h-43Z"/>
+  <path d="M300 640.85h43v1h-43Z"/>
+  <path d="M340 600.85h3v41h-3z"/>
+  <path fill="#fff" d="M343 600.85h41v41h-41Z"/>
+  <path d="M343 640.85h41v1h-41z"/>
+  <path d="M383 600.85h1v41h-1z"/>
+  <path fill="#fff" d="M384 600.85h41v41h-41Z"/>
+  <path d="M384 640.85h41v1h-41Z"/>
+  <path d="M424 600.85h1v41h-1z"/>
+  <path fill="#fff" d="M425 600.85h41v41h-41z"/>
+  <path d="M425 640.85h41v1h-41z"/>
+  <path d="M465 600.85h1v41h-1z"/>
+  <path fill="#fff" d="M466 600.85h43v41h-43Z"/>
+  <path d="M466 640.85h43v1h-43Z"/>
+  <path d="M506 600.85h3v41h-3zM509 640.85h41v1h-41z"/>
+  <path d="M549 600.85h1v41h-1zM550 640.85h41v1h-41Z"/>
+  <path d="M590 600.85h1v41h-1ZM591 640.85h41v1h-41z"/>
+  <path d="M631 600.85h1v41h-1z"/>
+  <path fill="#fff" d="M632 600.85h41v41h-41Z"/>
+  <path d="M632 640.85h41v1h-41Z"/>
+  <path d="M672 600.85h1v41h-1zM11 681.85h41v1H11Z"/>
+  <path d="M51 641.85h1v41h-1z"/>
+  <path fill="#fff" d="M52 641.85h41v41H52Z"/>
+  <path d="M52 681.85h41v1H52Z"/>
+  <path d="M92 641.85h1v41h-1z"/>
+  <path fill="#fff" d="M93 641.85h41v41H93Z"/>
+  <path d="M93 681.85h41v1H93Z"/>
+  <path d="M133 641.85h1v41h-1z"/>
+  <path fill="#fff" d="M134 641.85h43v41h-43Z"/>
+  <path d="M134 681.85h43v1h-43Z"/>
+  <path d="M174 641.85h3v41h-3ZM177 681.85h41v1h-41Z"/>
+  <path d="M217 641.85h1v41h-1z"/>
+  <path fill="#fff" d="M218 641.85h41v41h-41Z"/>
+  <path d="M218 681.85h41v1h-41Z"/>
+  <path d="M258 641.85h1v41h-1zM259 681.85h41v1h-41z"/>
+  <path d="M299 641.85h1v41h-1z"/>
+  <path fill="#fff" d="M300 641.85h43v41h-43Z"/>
+  <path d="M300 681.85h43v1h-43Z"/>
+  <path d="M340 641.85h3v41h-3z"/>
+  <path fill="#fff" d="M343 641.85h41v41h-41z"/>
+  <path d="M343 681.85h41v1h-41z"/>
+  <path d="M383 641.85h1v41h-1z"/>
+  <path fill="#fff" d="M384 641.85h41v41h-41Z"/>
+  <path d="M384 681.85h41v1h-41Z"/>
+  <path d="M424 641.85h1v41h-1z"/>
+  <path fill="#fff" d="M425 641.85h41v41h-41z"/>
+  <path d="M425 681.85h41v1h-41z"/>
+  <path d="M465 641.85h1v41h-1z"/>
+  <path fill="#fff" d="M466 641.85h43v41h-43Z"/>
+  <path d="M466 681.85h43v1h-43Z"/>
+  <path d="M506 641.85h3v41h-3z"/>
+  <path fill="#fff" d="M509 641.85h41v41h-41z"/>
+  <path d="M509 681.85h41v1h-41z"/>
+  <path d="M549 641.85h1v41h-1z"/>
+  <path fill="#fff" d="M550 641.85h41v41h-41Z"/>
+  <path d="M550 681.85h41v1h-41Z"/>
+  <path d="M590 641.85h1v41h-1Z"/>
+  <path fill="#fff" d="M591 641.85h41v41h-41z"/>
+  <path d="M591 681.85h41v1h-41z"/>
+  <path d="M631 641.85h1v41h-1z"/>
+  <path fill="#fff" d="M632 641.85h41v41h-41Z"/>
+  <path d="M632 681.85h41v1h-41Z"/>
+  <path d="M672 641.85h1v41h-1z"/>
+  <path fill="#fff" d="M11 682.85h41v41H11Z"/>
+  <path d="M11 722.85h41v1H11Z"/>
+  <path d="M51 682.85h1v41h-1z"/>
+  <path fill="#fff" d="M52 682.85h41v41H52Z"/>
+  <path d="M52 722.85h41v1H52Z"/>
+  <path d="M92 682.85h1v41h-1z"/>
+  <path fill="#fff" d="M93 682.85h41v41H93Z"/>
+  <path d="M93 722.85h41v1H93Z"/>
+  <path d="M133 682.85h1v41h-1z"/>
+  <path fill="#fff" d="M134 682.85h43v41h-43Z"/>
+  <path d="M134 722.85h43v1h-43Z"/>
+  <path d="M174 682.85h3v41h-3Z"/>
+  <path fill="#fff" d="M177 682.85h41v41h-41Z"/>
+  <path d="M177 722.85h41v1h-41Z"/>
+  <path d="M217 682.85h1v41h-1z"/>
+  <path fill="#fff" d="M218 682.85h41v41h-41Z"/>
+  <path d="M218 722.85h41v1h-41Z"/>
+  <path d="M258 682.85h1v41h-1z"/>
+  <path fill="#fff" d="M259 682.85h41v41h-41z"/>
+  <path d="M259 722.85h41v1h-41z"/>
+  <path d="M299 682.85h1v41h-1z"/>
+  <path fill="#fff" d="M300 682.85h43v41h-43Z"/>
+  <path d="M300 722.85h43v1h-43Z"/>
+  <path d="M340 682.85h3v41h-3z"/>
+  <path fill="#fff" d="M343 682.85h41v41h-41z"/>
+  <path d="M343 722.85h41v1h-41z"/>
+  <path d="M383 682.85h1v41h-1z"/>
+  <path fill="#fff" d="M384 682.85h41v41h-41Z"/>
+  <path d="M384 722.85h41v1h-41Z"/>
+  <path d="M424 682.85h1v41h-1z"/>
+  <path fill="#fff" d="M425 682.85h41v41h-41z"/>
+  <path d="M425 722.85h41v1h-41z"/>
+  <path d="M465 682.85h1v41h-1z"/>
+  <path fill="#fff" d="M466 682.85h43v41h-43Z"/>
+  <path d="M466 722.85h43v1h-43Z"/>
+  <path d="M506 682.85h3v41h-3z"/>
+  <path fill="#fff" d="M509 682.85h41v41h-41z"/>
+  <path d="M509 722.85h41v1h-41z"/>
+  <path d="M549 682.85h1v41h-1z"/>
+  <path fill="#fff" d="M550 682.85h41v41h-41Z"/>
+  <path d="M550 722.85h41v1h-41Z"/>
+  <path d="M590 682.85h1v41h-1Z"/>
+  <path fill="#fff" d="M591 682.85h41v41h-41z"/>
+  <path d="M591 722.85h41v1h-41z"/>
+  <path d="M631 682.85h1v41h-1z"/>
+  <path fill="#fff" d="M632 682.85h41v41h-41Z"/>
+  <path d="M632 722.85h41v1h-41Z"/>
+  <path d="M672 682.85h1v41h-1z"/>
+  <text x="531.738" y="456.25" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="531.738" y="456.25">E</tspan></text>
+  <text x="666.406" y="456.25" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="666.406" y="456.25">9</tspan></text>
+  <text x="1057.031" y="456.25" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1057.031" y="456.25">6</tspan></text>
+  <text x="1443.311" y="456.25" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1443.311" y="456.25">F</tspan></text>
+  <text x="1838.281" y="456.25" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1838.281" y="456.25">2</tspan></text>
+  <text x="2094.531" y="456.25" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="2094.531" y="456.25">7</tspan></text>
+  <text x="538.281" y="584.375" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="538.281" y="584.375">5</tspan></text>
+  <text x="666.406" y="584.375" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="666.406" y="584.375">2</tspan></text>
+  <text x="792.09" y="584.375" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="792.09" y="584.375">C</tspan></text>
+  <text x="928.906" y="584.375" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="928.906" y="584.375">7</tspan></text>
+  <text x="1310.84" y="584.375" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1310.84" y="584.375">D</tspan></text>
+  <text x="1447.656" y="584.375" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1447.656" y="584.375">9</tspan></text>
+  <text x="1959.863" y="584.375" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1959.863" y="584.375">B</tspan></text>
+  <text x="405.811" y="712.5" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="405.811" y="712.5">F</tspan></text>
+  <text x="1695.215" y="712.5" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1695.215" y="712.5">C</tspan></text>
+  <text x="273.34" y="840.625" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="273.34" y="840.625">A</tspan></text>
+  <text x="928.906" y="840.625" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="928.906" y="840.625">8</tspan></text>
+  <text x="1185.156" y="840.625" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1185.156" y="840.625">5</tspan></text>
+  <text x="1312.988" y="840.625" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1312.988" y="840.625">E</tspan></text>
+  <text x="1575.781" y="840.625" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1575.781" y="840.625">3</tspan></text>
+  <text x="1833.936" y="840.625" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1833.936" y="840.625">F</tspan></text>
+  <text x="1957.715" y="840.625" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1957.715" y="840.625">D</tspan></text>
+  <text x="538.281" y="975" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="538.281" y="975">3</tspan></text>
+  <text x="800.781" y="975" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="800.781" y="975">5</tspan></text>
+  <text x="928.906" y="975" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="928.906" y="975">2</tspan></text>
+  <text x="1057.031" y="975" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1057.031" y="975">4</tspan></text>
+  <text x="1310.84" y="975" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1310.84" y="975">A</tspan></text>
+  <text x="1575.781" y="975" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1575.781" y="975">7</tspan></text>
+  <text x="1957.715" y="975" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1957.715" y="975">C</tspan></text>
+  <text x="2222.656" y="975" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="2222.656" y="975">1</tspan></text>
+  <text x="273.34" y="1103.125" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="273.34" y="1103.125">C</tspan></text>
+  <text x="657.715" y="1103.125" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="657.715" y="1103.125">A</tspan></text>
+  <text x="928.906" y="1103.125" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="928.906" y="1103.125">6</tspan></text>
+  <text x="1057.031" y="1103.125" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1057.031" y="1103.125">9</tspan></text>
+  <text x="1438.965" y="1103.125" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1438.965" y="1103.125">D</tspan></text>
+  <text x="403.613" y="1231.25" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="403.613" y="1231.25">E</tspan></text>
+  <text x="533.936" y="1231.25" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="533.936" y="1231.25">F</tspan></text>
+  <text x="1319.531" y="1231.25" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1319.531" y="1231.25">9</tspan></text>
+  <text x="1703.906" y="1231.25" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1703.906" y="1231.25">8</tspan></text>
+  <text x="275.488" y="1359.375" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="275.488" y="1359.375">B</tspan></text>
+  <text x="529.59" y="1359.375" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="529.59" y="1359.375">D</tspan></text>
+  <text x="796.436" y="1359.375" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="796.436" y="1359.375">F</tspan></text>
+  <text x="1050.488" y="1359.375" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1050.488" y="1359.375">E</tspan></text>
+  <text x="1185.156" y="1359.375" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1185.156" y="1359.375">8</tspan></text>
+  <text x="2222.656" y="1359.375" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="2222.656" y="1359.375">7</tspan></text>
+  <text x="538.281" y="1493.75" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="538.281" y="1493.75">1</tspan></text>
+  <text x="666.406" y="1493.75" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="666.406" y="1493.75">7</tspan></text>
+  <text x="1178.613" y="1493.75" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1178.613" y="1493.75">E</tspan></text>
+  <text x="1567.09" y="1493.75" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1567.09" y="1493.75">D</tspan></text>
+  <text x="1838.281" y="1493.75" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1838.281" y="1493.75">0</tspan></text>
+  <text x="1962.061" y="1493.75" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1962.061" y="1493.75">F</tspan></text>
+  <text x="403.613" y="1621.875" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="403.613" y="1621.875">B</tspan></text>
+  <text x="538.281" y="1621.875" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="538.281" y="1621.875">8</tspan></text>
+  <text x="662.061" y="1621.875" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="662.061" y="1621.875">F</tspan></text>
+  <text x="800.781" y="1621.875" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="800.781" y="1621.875">4</tspan></text>
+  <text x="1695.215" y="1621.875" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1695.215" y="1621.875">A</tspan></text>
+  <text x="1829.59" y="1621.875" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1829.59" y="1621.875">D</tspan></text>
+  <text x="2094.531" y="1621.875" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="2094.531" y="1621.875">6</tspan></text>
+  <text x="282.031" y="1750" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="282.031" y="1750">2</tspan></text>
+  <text x="800.781" y="1750" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="800.781" y="1750">9</tspan></text>
+  <text x="924.561" y="1750" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="924.561" y="1750">F</tspan></text>
+  <text x="1319.531" y="1750" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1319.531" y="1750">6</tspan></text>
+  <text x="1447.656" y="1750" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1447.656" y="1750">5</tspan></text>
+  <text x="1703.906" y="1750" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1703.906" y="1750">1</tspan></text>
+  <text x="1966.406" y="1750" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1966.406" y="1750">3</tspan></text>
+  <text x="275.488" y="1878.125" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="275.488" y="1878.125">E</tspan></text>
+  <text x="410.156" y="1878.125" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="410.156" y="1878.125">9</tspan></text>
+  <text x="794.238" y="1878.125" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="794.238" y="1878.125">B</tspan></text>
+  <text x="1567.09" y="1878.125" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1567.09" y="1878.125">C</tspan></text>
+  <text x="1703.906" y="1878.125" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1703.906" y="1878.125">7</tspan></text>
+  <text x="1966.406" y="1878.125" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1966.406" y="1878.125">8</tspan></text>
+  <text x="2085.84" y="1878.125" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="2085.84" y="1878.125">A</tspan></text>
+  <text x="657.715" y="2012.5" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="657.715" y="2012.5">C</tspan></text>
+  <text x="800.781" y="2012.5" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="800.781" y="2012.5">3</tspan></text>
+  <text x="928.906" y="2012.5" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="928.906" y="2012.5">9</tspan></text>
+  <text x="1048.34" y="2012.5" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1048.34" y="2012.5">D</tspan></text>
+  <text x="1699.561" y="2012.5" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1699.561" y="2012.5">F</tspan></text>
+  <text x="1966.406" y="2012.5" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1966.406" y="2012.5">6</tspan></text>
+  <text x="2222.656" y="2012.5" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="2222.656" y="2012.5">8</tspan></text>
+  <text x="282.031" y="2140.625" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="282.031" y="2140.625">6</tspan></text>
+  <text x="1185.156" y="2140.625" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1185.156" y="2140.625">1</tspan></text>
+  <text x="1441.113" y="2140.625" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1441.113" y="2140.625">E</tspan></text>
+  <text x="1838.281" y="2140.625" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1838.281" y="2140.625">7</tspan></text>
+  <text x="2085.84" y="2140.625" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="2085.84" y="2140.625">D</tspan></text>
+  <text x="2213.965" y="2140.625" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="2213.965" y="2140.625">A</tspan></text>
+  <text x="282.031" y="2268.75" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="282.031" y="2268.75">7</tspan></text>
+  <text x="410.156" y="2268.75" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="410.156" y="2268.75">8</tspan></text>
+  <text x="529.59" y="2268.75" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="529.59" y="2268.75">A</tspan></text>
+  <text x="538.281" y="2396.875" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="538.281" y="2396.875">4</tspan></text>
+  <text x="1185.156" y="2396.875" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1185.156" y="2396.875">7</tspan></text>
+  <text x="1310.84" y="2396.875" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1310.84" y="2396.875">C</tspan></text>
+  <text x="1441.113" y="2396.875" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1441.113" y="2396.875">B</tspan></text>
+  <text x="1838.281" y="2396.875" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1838.281" y="2396.875">5</tspan></text>
+  <text x="1966.406" y="2396.875" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1966.406" y="2396.875">2</tspan></text>
+  <text x="703.824" y="2584.933" stroke-width="3.125" font-family="Times New Roman" font-size="78.125" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="703.824" y="2584.933">R</tspan><tspan x="703.824" y="2584.933"/>
+</text>
+  <g>
+    <text x="287.5" y="446.875" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="287.5" y="446.875">8</tspan></text>
+    <text x="410.938" y="446.875" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="410.938" y="446.875">C</tspan></text>
+    <text x="287.5" y="575" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="287.5" y="575">3</tspan></text>
+    <text x="415.625" y="575" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="415.625" y="575">1</tspan></text>
+    <text x="281.25" y="703.125" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="281.25" y="703.125">D</tspan></text>
+    <text x="543.75" y="703.125" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="543.75" y="703.125">7</tspan></text>
+    <text x="671.875" y="703.125" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="671.875" y="703.125">0</tspan></text>
+    <text x="415.625" y="831.25" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="415.625" y="831.25">4</tspan></text>
+    <text x="540.625" y="831.25" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="540.625" y="831.25">B</tspan></text>
+    <text x="671.875" y="831.25" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="671.875" y="831.25">6</tspan></text>
+    <text x="800" y="446.875" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="800" y="446.875">D</tspan></text>
+    <text x="934.375" y="446.875" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="934.375" y="446.875">4</tspan></text>
+    <text x="1190.625" y="446.875" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1190.625" y="446.875">3</tspan></text>
+    <text x="1062.5" y="575" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1062.5" y="575">0</tspan></text>
+    <text x="1187.5" y="575" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1187.5" y="575">F</tspan></text>
+    <text x="803.125" y="703.125" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="803.125" y="703.125">A</tspan></text>
+    <text x="931.25" y="703.125" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="931.25" y="703.125">E</tspan></text>
+    <text x="1059.375" y="703.125" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1059.375" y="703.125">B</tspan></text>
+    <text x="1190.625" y="703.125" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1190.625" y="703.125">9</tspan></text>
+    <text x="806.25" y="831.25" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="806.25" y="831.25">1</tspan></text>
+    <text x="1062.5" y="831.25" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1062.5" y="831.25">2</tspan></text>
+    <text x="1325" y="446.875" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1325" y="446.875">5</tspan></text>
+    <text x="1578.125" y="446.875" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1578.125" y="446.875">A</tspan></text>
+    <text x="1706.25" y="446.875" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1706.25" y="446.875">B</tspan></text>
+    <text x="1581.25" y="575" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1581.25" y="575">6</tspan></text>
+    <text x="1709.375" y="575" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1709.375" y="575">4</tspan></text>
+    <text x="1325" y="703.125" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1325" y="703.125">2</tspan></text>
+    <text x="1453.125" y="703.125" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1453.125" y="703.125">8</tspan></text>
+    <text x="1581.25" y="703.125" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1581.25" y="703.125">1</tspan></text>
+    <text x="1453.125" y="831.25" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1453.125" y="831.25">7</tspan></text>
+    <text x="1709.375" y="831.25" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1709.375" y="831.25">0</tspan></text>
+    <text x="1971.875" y="446.875" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1971.875" y="446.875">1</tspan></text>
+    <text x="2228.125" y="446.875" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="2228.125" y="446.875">0</tspan></text>
+    <text x="1840.625" y="575" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1840.625" y="575">A</tspan></text>
+    <text x="2100" y="575" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="2100" y="575">8</tspan></text>
+    <text x="2225" y="575" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="2225" y="575">E</tspan></text>
+    <text x="1843.75" y="703.125" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1843.75" y="703.125">3</tspan></text>
+    <text x="1971.875" y="703.125" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1971.875" y="703.125">5</tspan></text>
+    <text x="2100" y="703.125" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="2100" y="703.125">4</tspan></text>
+    <text x="2228.125" y="703.125" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="2228.125" y="703.125">6</tspan></text>
+    <text x="2100" y="831.25" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="2100" y="831.25">9</tspan></text>
+    <text x="2223.438" y="831.25" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="2223.438" y="831.25">C</tspan></text>
+    <text x="1840.625" y="965.625" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1840.625" y="965.625">B</tspan></text>
+    <text x="2096.875" y="965.625" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="2096.875" y="965.625">F</tspan></text>
+    <text x="1843.75" y="1093.75" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1843.75" y="1093.75">8</tspan></text>
+    <text x="1968.75" y="1093.75" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1968.75" y="1093.75">E</tspan></text>
+    <text x="2100" y="1093.75" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="2100" y="1093.75">3</tspan></text>
+    <text x="2228.125" y="1093.75" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="2228.125" y="1093.75">4</tspan></text>
+    <text x="1843.75" y="1221.875" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1843.75" y="1221.875">6</tspan></text>
+    <text x="1971.875" y="1221.875" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1971.875" y="1221.875">0</tspan></text>
+    <text x="2100" y="1221.875" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="2100" y="1221.875">2</tspan></text>
+    <text x="2221.875" y="1221.875" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="2221.875" y="1221.875">D</tspan></text>
+    <text x="1843.75" y="1350" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1843.75" y="1350">9</tspan></text>
+    <text x="1968.75" y="1350" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1968.75" y="1350">A</tspan></text>
+    <text x="2100" y="1350" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="2100" y="1350">5</tspan></text>
+    <text x="1453.125" y="965.625" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1453.125" y="965.625">6</tspan></text>
+    <text x="1706.25" y="965.625" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1706.25" y="965.625">E</tspan></text>
+    <text x="1325" y="1093.75" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1325" y="1093.75">1</tspan></text>
+    <text x="1578.125" y="1093.75" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1578.125" y="1093.75">F</tspan></text>
+    <text x="1709.375" y="1093.75" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1709.375" y="1093.75">5</tspan></text>
+    <text x="1453.125" y="1221.875" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1453.125" y="1221.875">3</tspan></text>
+    <text x="1578.125" y="1221.875" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1578.125" y="1221.875">B</tspan></text>
+    <text x="1325" y="1350" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1325" y="1350">0</tspan></text>
+    <text x="1448.438" y="1350" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1448.438" y="1350">C</tspan></text>
+    <text x="1581.25" y="1350" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1581.25" y="1350">4</tspan></text>
+    <text x="1709.375" y="1350" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1709.375" y="1350">2</tspan></text>
+    <text x="1184.375" y="965.625" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1184.375" y="965.625">D</tspan></text>
+    <text x="806.25" y="1093.75" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="806.25" y="1093.75">0</tspan></text>
+    <text x="1187.5" y="1093.75" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1187.5" y="1093.75">B</tspan></text>
+    <text x="806.25" y="1221.875" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="806.25" y="1221.875">7</tspan></text>
+    <text x="934.375" y="1221.875" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="934.375" y="1221.875">1</tspan></text>
+    <text x="1057.813" y="1221.875" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1057.813" y="1221.875">C</tspan></text>
+    <text x="1187.5" y="1221.875" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1187.5" y="1221.875">A</tspan></text>
+    <text x="934.375" y="1350" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="934.375" y="1350">3</tspan></text>
+    <text x="287.5" y="965.625" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="287.5" y="965.625">9</tspan></text>
+    <text x="415.625" y="965.625" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="415.625" y="965.625">0</tspan></text>
+    <text x="671.875" y="965.625" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="671.875" y="965.625">8</tspan></text>
+    <text x="287.5" y="1221.875" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="287.5" y="1221.875">4</tspan></text>
+    <text x="671.875" y="1221.875" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="671.875" y="1221.875">5</tspan></text>
+    <text x="415.625" y="1350" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="415.625" y="1350">6</tspan></text>
+    <text x="671.875" y="1350" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="671.875" y="1350">1</tspan></text>
+    <text x="287.5" y="1484.375" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="287.5" y="1484.375">5</tspan></text>
+    <text x="415.625" y="1484.375" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="415.625" y="1484.375">3</tspan></text>
+    <text x="806.25" y="1484.375" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="806.25" y="1484.375">6</tspan></text>
+    <text x="931.25" y="1484.375" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="931.25" y="1484.375">A</tspan></text>
+    <text x="1062.5" y="1484.375" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1062.5" y="1484.375">8</tspan></text>
+    <text x="1321.875" y="1484.375" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1321.875" y="1484.375">B</tspan></text>
+    <text x="1453.125" y="1484.375" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1453.125" y="1484.375">4</tspan></text>
+    <text x="1709.375" y="1484.375" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1709.375" y="1484.375">9</tspan></text>
+    <text x="2095.313" y="1484.375" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="2095.313" y="1484.375">C</tspan></text>
+    <text x="2228.125" y="1484.375" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="2228.125" y="1484.375">2</tspan></text>
+    <text x="287.5" y="1612.5" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="287.5" y="1612.5">0</tspan></text>
+    <text x="934.375" y="1612.5" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="934.375" y="1612.5">5</tspan></text>
+    <text x="1062.5" y="1612.5" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1062.5" y="1612.5">1</tspan></text>
+    <text x="1185.938" y="1612.5" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1185.938" y="1612.5">C</tspan></text>
+    <text x="1325" y="1612.5" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1325" y="1612.5">3</tspan></text>
+    <text x="1453.125" y="1612.5" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1453.125" y="1612.5">2</tspan></text>
+    <text x="1578.125" y="1612.5" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1578.125" y="1612.5">E</tspan></text>
+    <text x="1971.875" y="1612.5" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1971.875" y="1612.5">7</tspan></text>
+    <text x="2228.125" y="1612.5" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="2228.125" y="1612.5">9</tspan></text>
+    <text x="412.5" y="1740.625" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="412.5" y="1740.625">A</tspan></text>
+    <text x="539.063" y="1740.625" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="539.063" y="1740.625">C</tspan></text>
+    <text x="665.625" y="1740.625" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="665.625" y="1740.625">D</tspan></text>
+    <text x="1062.5" y="1740.625" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1062.5" y="1740.625">7</tspan></text>
+    <text x="1190.625" y="1740.625" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1190.625" y="1740.625">0</tspan></text>
+    <text x="1581.25" y="1740.625" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1581.25" y="1740.625">8</tspan></text>
+    <text x="1843.75" y="1740.625" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1843.75" y="1740.625">4</tspan></text>
+    <text x="2096.875" y="1740.625" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="2096.875" y="1740.625">E</tspan></text>
+    <text x="2225" y="1740.625" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="2225" y="1740.625">B</tspan></text>
+    <text x="543.75" y="1868.75" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="543.75" y="1868.75">6</tspan></text>
+    <text x="671.875" y="1868.75" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="671.875" y="1868.75">4</tspan></text>
+    <text x="928.125" y="1868.75" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="928.125" y="1868.75">D</tspan></text>
+    <text x="1062.5" y="1868.75" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1062.5" y="1868.75">3</tspan></text>
+    <text x="1190.625" y="1868.75" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1190.625" y="1868.75">2</tspan></text>
+    <text x="1321.875" y="1868.75" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1321.875" y="1868.75">F</tspan></text>
+    <text x="1453.125" y="1868.75" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1453.125" y="1868.75">0</tspan></text>
+    <text x="1843.75" y="1868.75" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1843.75" y="1868.75">1</tspan></text>
+    <text x="2228.125" y="1868.75" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="2228.125" y="1868.75">5</tspan></text>
+    <path fill="#fff" d="M177 641.85h41v41h-41ZM259 641.85h41v41h-41z"/>
+    <text x="415.625" y="1093.75" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="415.625" y="1093.75">7</tspan></text>
+    <text x="543.75" y="1093.75" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="543.75" y="1093.75">2</tspan></text>
+    <text x="287.5" y="2003.125" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="287.5" y="2003.125">1</tspan></text>
+    <text x="415.625" y="2003.125" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="415.625" y="2003.125">2</tspan></text>
+    <text x="543.75" y="2003.125" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="543.75" y="2003.125">0</tspan></text>
+    <text x="1190.625" y="2003.125" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1190.625" y="2003.125">4</tspan></text>
+    <text x="1325" y="2003.125" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1325" y="2003.125">7</tspan></text>
+    <text x="1450" y="2003.125" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1450" y="2003.125">A</tspan></text>
+    <text x="1581.25" y="2003.125" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1581.25" y="2003.125">5</tspan></text>
+    <text x="1840.625" y="2003.125" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1840.625" y="2003.125">E</tspan></text>
+    <text x="2096.875" y="2003.125" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="2096.875" y="2003.125">B</tspan></text>
+    <text x="415.625" y="2131.25" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="415.625" y="2131.25">5</tspan></text>
+    <text x="543.75" y="2131.25" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="543.75" y="2131.25">9</tspan></text>
+    <text x="668.75" y="2131.25" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="668.75" y="2131.25">B</tspan></text>
+    <text x="806.25" y="2131.25" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="806.25" y="2131.25">2</tspan></text>
+    <text x="929.688" y="2131.25" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="929.688" y="2131.25">C</tspan></text>
+    <text x="1059.375" y="2131.25" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1059.375" y="2131.25">F</tspan></text>
+    <text x="1325" y="2131.25" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1325" y="2131.25">8</tspan></text>
+    <text x="1581.25" y="2131.25" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1581.25" y="2131.25">0</tspan></text>
+    <text x="1709.375" y="2131.25" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1709.375" y="2131.25">3</tspan></text>
+    <text x="1971.875" y="2131.25" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1971.875" y="2131.25">4</tspan></text>
+    <text x="671.875" y="2259.375" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="671.875" y="2259.375">3</tspan></text>
+    <text x="931.25" y="2259.375" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="931.25" y="2259.375">B</tspan></text>
+    <text x="1062.5" y="2259.375" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1062.5" y="2259.375">5</tspan></text>
+    <text x="1190.625" y="2259.375" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1190.625" y="2259.375">6</tspan></text>
+    <text x="1325" y="2259.375" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1325" y="2259.375">4</tspan></text>
+    <text x="1453.125" y="2259.375" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1453.125" y="2259.375">1</tspan></text>
+    <text x="1581.25" y="2259.375" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1581.25" y="2259.375">2</tspan></text>
+    <text x="1703.125" y="2259.375" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1703.125" y="2259.375">D</tspan></text>
+    <text x="1839.063" y="2259.375" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1839.063" y="2259.375">C</tspan></text>
+    <text x="1971.875" y="2259.375" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1971.875" y="2259.375">9</tspan></text>
+    <text x="2100" y="2259.375" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="2100" y="2259.375">0</tspan></text>
+    <text x="2225" y="2259.375" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="2225" y="2259.375">F</tspan></text>
+    <text x="284.375" y="2387.5" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="284.375" y="2387.5">F</tspan></text>
+    <text x="409.375" y="2387.5" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="409.375" y="2387.5">D</tspan></text>
+    <text x="668.75" y="2387.5" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="668.75" y="2387.5">E</tspan></text>
+    <text x="806.25" y="2387.5" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="806.25" y="2387.5">8</tspan></text>
+    <text x="934.375" y="2387.5" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="934.375" y="2387.5">0</tspan></text>
+    <text x="1059.375" y="2387.5" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1059.375" y="2387.5">A</tspan></text>
+    <text x="1581.25" y="2387.5" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1581.25" y="2387.5">9</tspan></text>
+    <text x="1709.375" y="2387.5" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="1709.375" y="2387.5">6</tspan></text>
+    <text x="2100" y="2387.5" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="2100" y="2387.5">1</tspan></text>
+    <text x="2228.125" y="2387.5" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="2228.125" y="2387.5">3</tspan></text>
+    <text x="803.125" y="2259.375" fill="#303030" stroke-width="3.125" font-family="Times New Roman" font-size="56.25" font-style="italic" style="-inkscape-font-specification:TimesNewRomanPS-ItalicMT" transform="matrix(.32 0 0 .32 -66 -56.15)"><tspan x="803.125" y="2259.375">E</tspan></text>
+    <text x="322.82" y="876.615" font-family="Times New Roman" font-size="25" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="translate(-66 -56.15)"><tspan x="322.82" y="876.615" font-weight="400" style="-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:center" text-anchor="middle">0x65</tspan></text>
+    <text x="410.755" y="876.615" font-family="Times New Roman" font-size="25" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="translate(-66 -56.15)"><tspan x="410.755" y="876.615" font-weight="400" style="-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:center" text-anchor="middle">0x44</tspan></text>
+    <text x="499.597" y="876.615" font-family="Times New Roman" font-size="25" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="translate(-66 -56.15)"><tspan x="499.597" y="876.615" font-weight="400" style="-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:center" text-anchor="middle">0x32</tspan></text>
+    <text x="316.785" y="827.179" font-family="Times New Roman" font-size="25" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="translate(-66 -56.15)"><tspan x="316.785" y="827.179">e</tspan></text>
+    <text x="406.533" y="827.179" font-family="Times New Roman" font-size="25" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="translate(-66 -56.15)"><tspan x="406.533" y="827.179">D</tspan></text>
+    <text x="498.094" y="827.179" font-family="Times New Roman" font-size="25" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="translate(-66 -56.15)"><tspan x="498.094" y="827.179">2</tspan></text>
+    <text x="232.165" y="876.615" font-family="Times New Roman" font-size="25" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="translate(-66 -56.15)"><tspan x="232.165" y="876.615" font-weight="400" style="-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:center" text-anchor="middle">0x52</tspan></text>
+    <text x="588.438" y="876.615" font-family="Times New Roman" font-size="25" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="translate(-66 -56.15)"><tspan x="588.438" y="876.615" font-weight="400" style="-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:center" text-anchor="middle">0x75</tspan></text>
+    <text x="585.654" y="827.179" font-family="Times New Roman" font-size="25" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="translate(-66 -56.15)"><tspan x="585.654" y="827.179">u</tspan></text>
+    <text x="679.093" y="876.615" font-family="Times New Roman" font-size="25" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="translate(-66 -56.15)"><tspan x="679.093" y="876.615" font-weight="400" style="-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:center" text-anchor="middle">0x4d</tspan></text>
+    <text x="672.462" y="827.179" font-family="Times New Roman" font-size="25" font-weight="700" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="translate(-66 -56.15)"><tspan x="672.462" y="827.179">M</tspan></text>
+  </g>
+  <g fill="#555" font-family="Times New Roman" font-size="16" font-weight="700">
+    <text x="103.165" y="896.65" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="translate(-66 -56.15)"><tspan x="103.165" y="896.65">https://www.sudoku-puzzles-online.com/hexadoku/enter-a-solution-hexadoku-solution.php</tspan></text>
+    <text x="102.884" y="911.874" style="-inkscape-font-specification:TimesNewRomanPS-BoldMT" transform="translate(-66 -56.15)"><tspan x="102.884 112.657 121.555 128.657 135.759 140.204 147.305 152.634 156.634 168.188 176.188 185.087 190.415 194.86 201.962 215.29 222.391 231.29 235.29 246.844 254.844 258.844 262.844 270.844 278.844" y="911.874">Puzzle: Confirmed No. 798</tspan></text>
+  </g>
+</svg>
