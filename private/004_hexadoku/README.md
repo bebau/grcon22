@@ -1,3 +1,21 @@
+# Find the Terrorist's Password
+
+## Generator
+
+* [Hexadoku Generator](https://www.sudoku-puzzles-online.com/hexadoku/enter-a-solution-hexadoku-solution.php)
+* Confirmed puzzle # 798
+
+## Flag
+
+```python
+''.join([chr(x) for x in [0x52, 0x65, 0x44, 0x32, 0x75, 0x4d]])
+```
+
+Flag{ReD2uM}
+
+## Encoded Grid
+
+```
 *  *  E  9   *  *  6  *   *  F  *  *   2  *  7  * 
 *  *  5  2   C  7  *  *   D  9  *  *   *  B  *  * 
 *  F  *  *   *  *  *  *   *  *  *  C   *  *  *  * 
@@ -17,5 +35,6 @@ E  9  *  *   B  *  *  *   *  *  C  7   *  8  A  *
 6  *  *  *   *  *  *  1   *  E  *  *   7  *  D  A 
 7  8  A  *   *  *  *  *   *  *  *  *   *  *  *  * 
 *  *  4  *   *  *  *  7   C  B  *  *   5  2  *  * 
+```
 
 344a7644de5ff9444512983d9fc6a122
