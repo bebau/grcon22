@@ -8,7 +8,19 @@ All of our challenges are independent, but there is a pseudo story to the flavor
 
 I don't know how many points per challenge is good, but I'll pretend 100 is a base value and suggest a number based on difficulty. Scale as appropriate.
 
-## Challenges
+## *Solve My Bomb* Challenges
+
+### Flavortext
+
+A rumor comes across your desk: a dangerous terrorist has plans to commit evil deeds. The CIA, FBI, British Secret Intelligence Service, and many more organizations from around the world have invested time, manpower, weapons, and energy into finding him, but he has stealthily evaded capture. No one outside of world intelligence leaders knows who he is or what his intentions are. All your sources are able to tell you is that this mission is a priority for the entire world. Your time has come. 
+
+This challenge comes in 5 parts:
+
+1. Find the identity of the terrorist. 
+2. Determine the bounty on the terrorist's head. 
+3. Find the terrorist's hideout. 
+4. Hack the terrorist's bunker. 
+5. Defuse a bomb planted by the terrorist.
 
 ### `000_identity`
 
@@ -56,7 +68,7 @@ Hint for 17 points: *The length seems to be semiprime...*
 
 ### `004_hexadoku`
 
-#### How to decrypt the laptop?
+#### How to get into the bunker?
 
 A neat hexadecimal puzzle. I solved this by hand but I suspect folks will use an online-solver, making it pretty easy.
 
@@ -74,13 +86,3 @@ Hint for X points: *I bet the terrorist has a loophole built in in case he forge
 
 Hint for Y points: *As a hacker, you know you can inspect python bytecode with a certain method from the Python documentation. Then you can get names of variables, constants, attributes, etc.*
 
-
-A rumor comes across your desk: a dangerous terrorist has plans to commit evil deeds. The CIA, FBI, British Secret Intelligence Service, and many more organizations from around the world have invested time, manpower, weapons, and energy into finding him, but he has stealthily evaded capture. No one outside of world intelligence leaders knows who he is or what his intentions are. All your sources are able to tell you is that this mission is a priority for the entire world. Your time has come. 
-
-This challenge comes in 5 parts:
-
-1. Find the identity of the terrorist. 
-2. Determine the bounty on the terrorist's head. 
-3. Find the terrorist's hideout. 
-4. Defuse a bomb planted by the terrorist.
-5. Hack the terrorist's bunker. 
