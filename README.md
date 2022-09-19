@@ -61,13 +61,15 @@ A rumor comes across your desk: a dangerous terrorist has plans to commit evil d
 
 ### `002_bomb/`
 
-Despite the numbering, this is the last challenge. A decompiling challenge.
+Despite the numbering, this is the last challenge. A decompiling/reverse engineering challenge.
 
-#### What is the username?
+#### What are the credentials to log in to the terrorist's machine and defuse the bomb? 
 
 * 100 points.
 * Topic: Reverse Engineering
-* `Flag{}`
-* Hint for X points: *I bet the terrorist has a loophole built in in case he forgets his password. He is a software mastermind, but he hasn't picked the most secure python functionality. Let's try entering { as a password and see if there's a possible vulnerability to exploit.*
-* Hint for Y points: *As a hacker, you know you can inspect python bytecode with a certain method from the Python documentation. Then you can get names of variables, constants, attributes, etc.*
+* `Flag{OK1PULL^}`
+(note: this is referencing ok I pull up hop out at the afterparty, being gort's favorite song)
+* Hint for 2 points: *If you know the identity of the terrorist, the username is _____ the Evil.*
+* Hint for 5 points: *The terrorist is a software mastermind, but he hasn't picked the most secure python functionality. Let's try entering { as a password and see if there's a possible vulnerability to exploit.*
+* Hint for 15 points: *You can inspect python bytecode if there are any functions or objects here...  Password: {my_object_name.__hackthemainframe__}, something along those lines*
 
