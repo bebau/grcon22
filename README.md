@@ -8,6 +8,8 @@ All of our challenges are independent, but there is a pseudo story to the flavor
 
 I don't know how many points per challenge is good, but we'll pretend 100 is a base value and suggest a number based on difficulty. Scale as appropriate.
 
+Each challenge has a `public/` folder that holds files facing the challenger, and a `private/` folder with solutions and creation files for the challenge.
+
 ## *Solve My Bomb* Challenges
 
 ### Flavortext
@@ -62,8 +64,8 @@ This is a binary classification problem with some lateral thinking.
 
 #### How to get into the bunker?
 
+* 31 points.
 * A neat hexadecimal puzzle. I solved this by hand but I suspect folks will use an online-solver, making it pretty easy.
-* 25 points.
 
 ### `002_bomb/`
 
@@ -71,6 +73,7 @@ Despite the numbering, this is the last challenge. A decompiling challenge.
 
 #### What is the username?
 
+* 100 points.
 * `Flag{}`
 * Hint for X points: *I bet the terrorist has a loophole built in in case he forgets his password. He is a software mastermind, but he hasn't picked the most secure python functionality. Let's try entering { as a password and see if there's a possible vulnerability to exploit.*
 * Hint for Y points: *As a hacker, you know you can inspect python bytecode with a certain method from the Python documentation. Then you can get names of variables, constants, attributes, etc.*
