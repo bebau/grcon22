@@ -11,7 +11,7 @@ The outlaw's name is (Word 1, pos 1) + (Word 2, pos 2) + (Word 3, pos 1) + (Word
 Getting started
 * Uses part of the Marine Mammal Dataset on Kaggle (https://www.kaggle.com/datasets/shreyj1729/best-of-watkins-marine-mammal-sound-database)
 * Download the dataset: `kaggle datasets download -d shreyj1729/best-of-watkins-marine-mammal-sound-database` (possible to download part of it?)
-* Set DATA_PATH to the local data folder in 00_generate_dataset.py
+* Set `DATA_PATH` to the local data folder in `00_generate_dataset.py`
 
 ## Dependencies
 * `pip install librosa sklearn pandas`
