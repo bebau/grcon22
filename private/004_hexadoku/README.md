@@ -9,6 +9,8 @@
 
 ## Explanation
 
+![solution hexadoku](hexadoku_private_sm.svg)
+
 ```python
 ''.join([chr(x) for x in [0x52, 0x65, 0x44, 0x32, 0x75, 0x4d]])
 ```

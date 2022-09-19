@@ -9,7 +9,7 @@
 
 ## Explanation
 
-**Flag{gort}**:
+**Flag{gort}**
 
 * **g**rayseal
 * c**o**mmondolphin
