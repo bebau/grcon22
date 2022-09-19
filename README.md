@@ -22,7 +22,7 @@ This challenge comes in 5 parts:
 4. Hack the terrorist's bunker. 
 5. Defuse a bomb planted by the terrorist.
 
-### `000_identity`
+### `000_identity/`
 
 
 #### What is the identity of the terrorist?
@@ -33,7 +33,7 @@ This challenge comes in 5 parts:
 
 Hint for medium points: *Our outlaw is also a good swimmer*
 
-### `001_wanted`
+### `001_wanted/`
 
 Wideband SDR Problem.
 
@@ -52,7 +52,7 @@ Hint for big points: *Bounty is outside the HAM bandplan*
 
 `Flag{Radiohead}`
 
-### `003_qrtree`
+### `003_qrtree/`
 
 This is a binary classification problem with some lateral thinking.
 
@@ -66,7 +66,7 @@ Hint for 3 points: *The length of the this binary classification output looks fa
 
 Hint for 17 points: *The length seems to be semiprime...* 
 
-### `004_hexadoku`
+### `004_hexadoku/`
 
 #### How to get into the bunker?
 
@@ -74,7 +74,7 @@ A neat hexadecimal puzzle. I solved this by hand but I suspect folks will use an
 
 25 points.
 
-### `002_bomb`
+### `002_bomb/`
 
 Despite the numbering, this is the last challenge. A decompiling challenge.
 
