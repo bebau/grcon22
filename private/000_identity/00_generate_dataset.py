@@ -119,9 +119,8 @@ for soundfile in sounds:
 df_test = pd.read_csv('data_test.csv')
 print("Identity Dataframe: " + str(df_test.shape))
 
-
 identity_test = scaler.transform(np.array(df_test.iloc[:, 0:26]))
-np.savetxt(dir_private / 'identity_test.csv', test_y , delimiter=',')
+np.savetxt(dir_private / 'identity_test.csv', identity_test , delimiter=',')
 
 
 print('done')
