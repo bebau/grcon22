@@ -1,11 +1,26 @@
-# Find the bounty on the terrorist
+# Bounty
+
+## Solution
+
+### What is the bounty on the terrorist's head?
+
+* 125 points.
+* Topic: SDR
+* `Flag{$198,733}` or `Flag{198733}` or `Flag{198,733}`
+* Hint for 23 points: *777 samples per symbol*
+* Hint for 33 points: *Bounty is outside the HAM bandplan*
+
+### Bonus: What band composed the cat piano melody?
+
+* 25 points.
+* Topic: Trivia
+* `Flag{Radiohead}`
+
+## Explanation
 
 ![Wanted poster full bit depth](2022-09_gort-wanted_v1.png)
 ![Wanted poster error diffusion dithering](2022-09_gort-wanted_v1_dither-edd-stucki.png)
 ![Wanted poster ordered dithering](2022-09_gort-wanted_v1_dither-ord-21.png)
-
-
-## Explanation
 
 The *hint* signal lets you know an image is embedded in the capture, just not where. The RF background is a big diversion and was recorded over-the-air.
 

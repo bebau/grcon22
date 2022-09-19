@@ -3,6 +3,7 @@
 from PIL import Image
 import numpy as np
 
+# prime width and height so total size is semiprime
 HEIGHT, WIDTH = 107, 97
 np.random.seed(seed=0xDEADBEEF+55000)
 
@@ -23,6 +24,7 @@ bg = np.random.random((HEIGHT, WIDTH)) > .5
 # bg = np.zeros((HEIGHT, WIDTH), dtype=bool)
 # bg[0, 0] = True
 
+# construct rule30 background
 for rdx in range(1, HEIGHT):
     for cdx in range(1, WIDTH-1):
         for key, value in rules.items():
@@ -30,6 +32,7 @@ for rdx in range(1, HEIGHT):
             if above == key:
                 bg[rdx, cdx] = value
 
+# save background only for posterity
 final = Image.fromarray(bg.astype(np.uint8)*255, mode='L').convert('1')
 final.save('qr_bg.png')
 

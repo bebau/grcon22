@@ -1,14 +1,14 @@
-# Find the bounty on the terrorist
+# Bounty
 
-## Capture
+## What is the bounty on the terrorist's head?
 
-The RF capture can be loaded with SigMF python package `pip install sigmf`.
+The RF capture `wanted.sigmf.zip` can be unzipped and loaded with SigMF python package `pip install sigmf`.
 
 Alternatively you can unzip and untar it into `.sigmf-data` and read the samples as complex float 32bit. The `.sigmf-meta` data may have some useful info.
 
-:D
+Flag Format: `Flag{$$$$$$$$$$$}`
 
-## Flag Format
+## Bonus: What band composed the cat piano melody?
 
-Flag{$$$$$$$$}
+Flag format: `Flag{Band Name}`
 

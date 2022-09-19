@@ -1,5 +1,5 @@
-# Find the Terrorist's Password
+# Get into the bunker
 
-You must log in to the terrorist's device to access the files and defuse the bomb.
+There is a keypad outside the bunker entrance with an alphanumeric keypad.
 
-Luckily this is taped to the bottom of the keyboard...
+Luckily you find this inside a hide-a-key rock...
