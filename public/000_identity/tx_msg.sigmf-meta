@@ -1,0 +1,14 @@
+{
+  "global": {
+    "core:datatype": "rf32_le",
+    "core:sample_rate": 48000.0,
+    "core:version": "1.0.0",
+    "freqMap" : {"m": 10, "y": 5, " ": 42, "n": 11, "a": 17, "e": 18, "i": 12, "s": 10, "G": 1, "o": 15, "r": 8, "t": 16, "h": 4, "E": 1, "v": 4, "l": 5, ".": 6, "p": 5, "g": 2, "f": 2, "u": 5, "c": 3, "d": 3, "b": 3, "w": 2, "j": 1, "k": 1}
+  },
+  "captures": [
+    {
+      "core:sample_start": 0
+    }
+  ],
+  "annotations": []
+}
