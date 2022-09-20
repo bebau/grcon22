@@ -18,7 +18,7 @@ Each challenge has a `public/` folder that holds files facing the challenger, an
 3. `004_hexadoku/`
 4. `002_bomb/` (bomb is last!)
 
-`005_ansi` is unused.
+`005_ansi` and `006_mammal` are unused.
 
 ## Flavortext
 

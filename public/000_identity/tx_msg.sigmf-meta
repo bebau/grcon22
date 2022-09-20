@@ -1,14 +1,45 @@
 {
-  "global": {
-    "core:datatype": "rf32_le",
-    "core:sample_rate": 48000.0,
-    "core:version": "1.0.0",
-    "freqMap" : {"m": 10, "y": 5, " ": 42, "n": 11, "a": 17, "e": 18, "i": 12, "s": 10, "G": 1, "o": 15, "r": 8, "t": 16, "h": 4, "E": 1, "v": 4, "l": 5, ".": 6, "p": 5, "g": 2, "f": 2, "u": 5, "c": 3, "d": 3, "b": 3, "w": 2, "j": 1, "k": 1}
-  },
-  "captures": [
-    {
-      "core:sample_start": 0
-    }
-  ],
-  "annotations": []
+    "global": {
+        "core:datatype": "rf32_le",
+        "core:description": "GrCon2022 Aero part0: identity",
+        "core:license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "core:sample_rate": 48000.0,
+        "core:sha512": "a8e0573e600a07050bf784f31c64d4f7b9363587f273cee3b2ebf2beffcca0250253f5c07aabae07342eb4078691aeb8b8090f8ea082082cd6c7611725217f56",
+        "core:version": "1.0.0",
+        "grcon:freq_map": {
+            " ": 42,
+            ".": 6,
+            "E": 1,
+            "G": 1,
+            "a": 17,
+            "b": 3,
+            "c": 3,
+            "d": 3,
+            "e": 18,
+            "f": 2,
+            "g": 2,
+            "h": 4,
+            "i": 12,
+            "j": 1,
+            "k": 1,
+            "l": 5,
+            "m": 10,
+            "n": 11,
+            "o": 15,
+            "p": 5,
+            "r": 8,
+            "s": 10,
+            "t": 16,
+            "u": 5,
+            "v": 4,
+            "w": 2,
+            "y": 5
+        }
+    },
+    "captures": [
+        {
+            "core:sample_start": 0
+        }
+    ],
+    "annotations": []
 }

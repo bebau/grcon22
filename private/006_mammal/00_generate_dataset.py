@@ -31,7 +31,7 @@ with file:
 marine_mammals = ['AtlanticSpottedDolphin', 'BeardedSeal', 'BlueWhale', 'CommonDolphin', 'DuskyDolphin', 'GraySeal', 'RibbonSeal', 'Long_FinnedPilotWhale', 'RossSeal', 'Rough_ToothedDolphin']
 
 for animal in marine_mammals:
-
+    print(animal)
     for filename in os.listdir(f"{DATA_PATH}/{animal}/"):
 
         sound_name = f"{DATA_PATH}/{animal}/{filename}"
@@ -94,7 +94,6 @@ with file:
 # Solution sounds
 sounds = ["GraySeal/63001004.wav", "CommonDolphin/5801400X.wav", "RibbonSeal/71013008.wav", "AtlanticSpottedDolphin/6102603L.wav"]
 
-# for filename in os.listdir(f"/workspace/data_test/"):
 for soundfile in sounds: 
     sound_name = f"{DATA_PATH}/{soundfile}"
     y, sr = librosa.load(sound_name, mono = True, duration = 30)
