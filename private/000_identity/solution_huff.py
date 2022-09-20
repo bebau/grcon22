@@ -6,11 +6,11 @@ import huffman
 import sigmf
 
 handle = sigmf.sigmffile.fromfile('grcon22/tx_msg')
-freqMap = handle.get_global_info()["freqMap"]
+freq_map = handle.get_global_info()["grcon:freq_map"]
 
 phantom_string = ""
-for key in freqMap.keys():
-    phantom_string += key*freqMap[key]
+for key in freq_map.keys():
+    phantom_string += key*freq_map[key]
 
 _, tree = huffman.Huffman_Encoding(phantom_string)
 
