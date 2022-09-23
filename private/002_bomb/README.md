@@ -11,7 +11,7 @@
 
 Guess penalties:
 * 3 free guesses. After that, guesses should be penalized 10 points per guess. 
-* Hint for 1 point: *If you know the identity of the terrorist, the username is _____ the Evil.*
+* Hint for 1 point: *If you know the identity of the terrorist, that's the username.*
 * Hint for 5 points: *The terrorist is a software mastermind, but he hasn't picked the most secure python functionality. Let's try entering { as a password and see if there's a possible vulnerability to exploit.*
 * Hint for 15 points: *You can inspect python bytecode if there are any functions or objects here...  Password: {my_object_name.__hackthemainframe__}, something along those lines*
 * Hint for 31 points: The encryption key of the bytecode is "sneedle". 
