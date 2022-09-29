@@ -1,5 +1,11 @@
 # *Solve My Bomb* Challenges for GRCon 22
 
+![001_wanted](private/001_wanted/2022-09_gort-wanted_v1_with-primes.png)
+
+![002_bomb](private/002_bomb/screenshot.png)
+
+![003_qrtree](private/003_qrtree/qr_decode_tree.png)
+
 ## Overview
 
 All of our challenges are independent, but there is a pseudo story to the flavortext that ties them all together. They could be revealed every few hours or after completion of the one previous. Solving the `wanted` challenge gives a hint to the `qrtree` challenge and vice-versa.
