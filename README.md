@@ -3,6 +3,7 @@
 ![001_wanted](private/001_wanted/2022-09_gort-wanted_v1_with-primes.png)
 ![002_bomb](private/002_bomb/screenshot.png)
 ![003_qrtree](private/003_qrtree/qr_decode.png)
+![004_hexadoku](private/004_hexadoku/clip.png)
 
 ## Overview
 
