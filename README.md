@@ -23,8 +23,7 @@ Each challenge has a `public/` folder that holds files facing the challenger, an
 3. `004_hexadoku/`
 4. `002_bomb/` (bomb is last!)
 
-`005_ansi` and `006_mammal` are unused.
-
 ## Flavortext
 
 A rumor comes across your desk: a dangerous terrorist has plans to commit evil deeds. The CIA, FBI, British Secret Intelligence Service, and many more organizations from around the world have invested time, manpower, weapons, and energy into finding him, but he has stealthily evaded capture. No one outside of world intelligence leaders knows who he is or what his intentions are. All your sources are able to tell you is that this mission is a priority for the entire world. Your time has come.
+
